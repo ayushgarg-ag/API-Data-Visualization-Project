@@ -1,0 +1,46 @@
+* {
+        font-family: Arial !important;
+        background-color: #BBDBF7 !important;
+}
+h1 {
+    font-size: 2em !important;
+
+}
+table{
+    color: black;
+    font-size: 1em !important;
+}
+td {
+    padding: 10px;
+}
+.map{
+    padding: 0px;
+}
+body {
+    background-color: white;
+}
+.square1{
+    height: 2.5vw;
+    width: 2.5vw;
+    background-color: darkgreen !important;
+}
+.square2{
+    height: 2.5vw;
+    width: 2.5vw;
+    background-color: forestgreen !important;
+}
+.square5{
+    height: 2.5vw;
+    width: 2.5vw;
+    background-color: limegreen !important;
+}
+.square6{
+    height: 2.5vw;
+    width: 2.5vw;
+    background-color: palegreen !important;
+}
+.square7{
+    height: 2.5vw;
+    width: 2.5vw;
+    background-color: darkseagreen !important;
+}
