@@ -1,4 +1,4 @@
-# Data Visualization Project
+# API Data Visualization Project
 
 <a href="https://ayushgarg-ag.github.io/API-Data-Visualization-Project/" target="_blank"><i><b>View the live version here (on GitHub Pages)</i></b></a>
 
